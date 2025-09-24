@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mega</h1>
-<h3 align="center">I am currently working on receiptly.cc</h3>
+<h3 align="center">I am currently working on receiptly.fr</h3>
 <h3 align="center">Contant me for business enquires only!</h3>
 <h3 align="center">t.me/@megav3</h3>
 
