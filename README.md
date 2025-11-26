@@ -34,7 +34,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
   </a>
 </p>
-
----
-
-<h3 align="center">✨ Let's build something amazing!</h3>
