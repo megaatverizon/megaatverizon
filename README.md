@@ -10,7 +10,7 @@
 
 <p align="center">
   portfolio:
-  <a href="null" target="_blank">receiptly.fr</a>
+  <a href="null" target="_blank">null</a>
 </p>
 
 <p align="center">
