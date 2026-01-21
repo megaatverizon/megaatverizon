@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  previous project:
-  <a href="https://receiptly.fr" target="_blank">receiptly.fr</a>
+  portfolio:
+  <a href="null" target="_blank">receiptly.fr</a>
 </p>
 
 <p align="center">
