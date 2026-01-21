@@ -15,7 +15,7 @@
 
 <p align="center">
   contact:
-  <a href="https://t.me/megav3" target="_blank">t.me/megav3</a>
+  <a href="https://t.me/megaisreborn" target="_blank">t.me/megav3</a>
 </p>
 
 <hr />
