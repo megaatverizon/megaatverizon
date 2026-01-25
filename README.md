@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  current project: null
+  current project:
+  <a href="null" target="_blank">null</a>
 </p>
 
 <p align="center">
@@ -15,7 +16,7 @@
 
 <p align="center">
   contact:
-  <a href="https://t.me/megaisreborn" target="_blank">t.me/megav3</a>
+  <a href="https://t.me/megaisreborn" target="_blank">t.me/megaisreborn</a>
 </p>
 
 <hr />
