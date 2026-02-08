@@ -6,12 +6,12 @@
 
 <p align="center">
   current project:
-  <a href="null" target="_blank">null</a>
+  <a href="https://reborninc.xyz" target="_blank">reborninc.xyz</a>
 </p>
 
 <p align="center">
   portfolio:
-  <a href="null" target="_blank">null</a>
+  <a href="https://megareborn.dev" target="_blank">megareborn.dev</a>
 </p>
 
 <p align="center">
